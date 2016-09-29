@@ -19,5 +19,14 @@
     "tweaked-monokai"
   ],
   "author": "Hoàng Văn Khải <hvksmr1996@gmail.com>",
-  "version": "0.0.0"
+  "version": "0.0.0",
+  "devDependencies": {
+    "standard": "8.0.0"
+  },
+  "scripts": {
+    "remake-package-json": "node sh/remake-package-json",
+    "clean": "bash -c './sh/clean.sh'",
+    "fix": "bash -c './sh/fix.sh'",
+    "test": "bash -c './sh/test.sh'"
+  }
 }
