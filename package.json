@@ -19,7 +19,7 @@
     "tweaked-monokai"
   ],
   "author": "Hoàng Văn Khải <hvksmr1996@gmail.com>",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "devDependencies": {
     "standard": "8.0.0"
   },
