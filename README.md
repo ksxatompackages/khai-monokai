@@ -16,7 +16,7 @@ apm install khai-monokai
 ### Using Git
 
 ```bash
-git clone -b latest https://ksxatompackages/khai-monokai.git
+git clone -b latest https://github.com/ksxatompackages/khai-monokai.git
 apm link khai-monokai
 ```
 
