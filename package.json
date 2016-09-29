@@ -1,7 +1,6 @@
 {
   "name": "monokai",
   "theme": "syntax",
-  "version": "0.18.0",
   "description": "Khải's tweaked Monokai syntax",
   "repository": "https://github.com/kevinsawicki/monokai",
   "license": "MIT",
