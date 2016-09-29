@@ -2,9 +2,21 @@
   "name": "khai-monokai",
   "theme": "syntax",
   "description": "Khải's tweaked Monokai syntax",
-  "repository": "https://github.com/ksxatompackages/khai-monokai",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksxatompackages/khai-monokai.git"
+  },
   "license": "MIT",
   "engines": {
     "atom": "^1.10.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/ksxatompackages/khai-monokai/issues"
+  },
+  "homepage": "https://github.com/ksxatompackages/khai-monokai#readme",
+  "keywords": [
+    "monokai",
+    "tweaked-monokai"
+  ],
+  "author": "Hoàng Văn Khải <hvksmr1996@gmail.com>"
 }
