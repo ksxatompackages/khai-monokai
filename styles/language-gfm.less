@@ -1,0 +1,40 @@
+atom-text-editor, :host {
+  .gfm {
+    .markup {
+      &.heading {
+        color: @green;
+        font-weight: bold;
+      }
+
+      &.underline {
+        color: @yellow;
+        text-decoration: underline;
+      }
+    }
+
+    .bold {
+      font-weight: bold;
+    }
+
+    .italic {
+      font-style: italic;
+    }
+
+    .raw {
+      color: @blue;
+    }
+
+    .variable.list {
+      color: @pink;
+      font-weight: bold;
+    }
+
+    .link {
+      color: @light-gray;
+
+      .entity {
+        color: @purple;
+      }
+    }
+  }
+}
