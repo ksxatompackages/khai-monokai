@@ -1,4 +1,4 @@
-# Khải's Monokai syntax
+# Khải's Monokai syntax [![Build Status](https://travis-ci.org/ksxatompackages/khai-monokai.svg?branch=master)](https://travis-ci.org/ksxatompackages/khai-monokai)
 My own tweaked monokai theme for Atom
 
 ## Origin
