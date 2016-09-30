@@ -21,7 +21,8 @@
   "author": "Hoàng Văn Khải <hvksmr1996@gmail.com>",
   "version": "0.0.3",
   "devDependencies": {
-    "standard": "8.0.0"
+    "standard": "8.0.0",
+    "less": "^2.7.1"
   },
   "scripts": {
     "remake-package-json": "node sh/remake-package-json",
